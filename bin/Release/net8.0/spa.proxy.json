@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\davo\\source\\repos\\Murfwood_AngularNetcore2\\Murfwood_AngularNetcore2.Server\\..\\murfwood_angularnetcore2.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

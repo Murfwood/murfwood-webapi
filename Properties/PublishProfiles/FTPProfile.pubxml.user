@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmobuG3fyU0mLLXzbWBewdQAAAAACAAAAAAAQZgAAAAEAACAAAAAdyX+oOlNlRxs60GXTexDDOqxbzystWsUL3222FJtTzgAAAAAOgAAAAAIAACAAAABScdYHAU7+XTnFmAdgIvU8g4Vy0bTmt4KdNmhtOMpQqiAAAADSbLXo6QaWQWET+L7s4gr9cIALFgvuVBJILcWSh07vkEAAAADXzmFmOrMIpJOjRtzNG2D+JGhjL9yXTCq58lkRt9X1Bup+B3pOsG/ymdsBrw2UL2kWDBs3Mh6YBfvsHHgD7WPP</EncryptedPassword>
+    <_PublishTargetUrl>ftp://157.173.212.157:22/var/www/murfwood</_PublishTargetUrl>
+    <History>False|2024-10-25T10:49:09.9911511Z;True|2024-06-25T15:21:56.0498893-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>12/15/2023 13:19:08</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>12/15/2023 13:19:08</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.SpaProxy.dll">
+      <publishTime>11/30/2023 13:07:58</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 15:14:12</publishTime>
+    </File>
+    <File Include="Murfwood_AngularNetcore2.Server.deps.json">
+      <publishTime>06/25/2024 15:16:06</publishTime>
+    </File>
+    <File Include="Murfwood_AngularNetcore2.Server.dll">
+      <publishTime>06/25/2024 15:16:06</publishTime>
+    </File>
+    <File Include="Murfwood_AngularNetcore2.Server.exe">
+      <publishTime>06/25/2024 15:16:06</publishTime>
+    </File>
+    <File Include="Murfwood_AngularNetcore2.Server.pdb">
+      <publishTime>06/25/2024 15:16:06</publishTime>
+    </File>
+    <File Include="Murfwood_AngularNetcore2.Server.runtimeconfig.json">
+      <publishTime>06/25/2024 14:34:29</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 10:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 10:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 10:21:48</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/25/2024 15:16:12</publishTime>
+    </File>
+    <File Include="wwwroot/3rdpartylicenses.txt">
+      <publishTime>06/25/2024 15:16:12</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/angular-icon.svg">
+      <publishTime>03/05/2024 11:10:14</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/aws-ec2.svg">
+      <publishTime>03/05/2024 11:11:25</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/banner_1.png">
+      <publishTime>03/15/2024 09:02:42</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/banner_2.png">
+      <publishTime>03/15/2024 09:02:32</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/banner_3.png">
+      <publishTime>03/15/2024 09:02:08</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/banner_4.png">
+      <publishTime>04/17/2024 02:18:31</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/bootstrap.svg">
+      <publishTime>03/05/2024 16:04:07</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/css-3.svg">
+      <publishTime>03/05/2024 16:04:48</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/dotnet.svg">
+      <publishTime>03/05/2024 11:10:30</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/home-cardimages-01.png">
+      <publishTime>03/05/2024 12:42:27</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/home-cardimages-02.png">
+      <publishTime>03/05/2024 12:43:08</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/home-cardimages-03.png">
+      <publishTime>03/15/2024 07:08:40</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/home-cardimages-04.png">
+      <publishTime>04/17/2024 01:59:48</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/html-5.svg">
+      <publishTime>03/05/2024 16:04:41</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/javascript.svg">
+      <publishTime>03/05/2024 11:13:48</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/jquery.svg">
+      <publishTime>03/05/2024 11:13:55</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/LOTRO2.jpg">
+      <publishTime>05/22/2023 02:02:02</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/LOTRO3.jpg">
+      <publishTime>05/22/2023 02:03:38</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/LOTRO4.jpg">
+      <publishTime>05/22/2023 02:04:50</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/M-logog-hires.png">
+      <publishTime>09/23/2023 12:11:30</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/microsoft-azure.svg">
+      <publishTime>03/05/2024 11:11:01</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover.png">
+      <publishTime>04/05/2024 07:25:10</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover1.png">
+      <publishTime>02/27/2024 09:36:35</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover10.jpeg">
+      <publishTime>04/05/2024 07:05:55</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover10.png">
+      <publishTime>04/16/2024 10:42:37</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover11.jpeg">
+      <publishTime>04/05/2024 07:10:10</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover12.jpeg">
+      <publishTime>04/16/2024 03:05:26</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover13.jpeg">
+      <publishTime>04/16/2024 10:21:13</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover2.png">
+      <publishTime>03/04/2024 23:25:55</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover3.png">
+      <publishTime>03/04/2024 23:41:47</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover4.png">
+      <publishTime>03/05/2024 01:04:02</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover5.png">
+      <publishTime>03/05/2024 01:06:23</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover6.png">
+      <publishTime>03/05/2024 02:42:06</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover7.png">
+      <publishTime>03/05/2024 01:39:26</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover8.jpeg">
+      <publishTime>04/05/2024 07:04:35</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover8.png">
+      <publishTime>04/07/2024 13:05:12</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover9.jpeg">
+      <publishTime>04/05/2024 07:05:09</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-cover9.png">
+      <publishTime>04/08/2024 23:40:58</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/murfwood-logo-full.png">
+      <publishTime>05/23/2024 03:17:03</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/Murfwood.png">
+      <publishTime>05/09/2024 04:00:07</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/nodejs-icon.svg">
+      <publishTime>03/05/2024 11:10:02</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/paraBG.svg">
+      <publishTime>06/18/2024 10:35:18</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/paraImg-01.svg">
+      <publishTime>06/18/2024 10:36:08</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/paraImg-02.svg">
+      <publishTime>06/18/2024 10:39:26</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/paraImg-03.svg">
+      <publishTime>06/18/2024 10:39:49</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/paraImg-04.svg">
+      <publishTime>06/25/2024 13:49:22</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/paraImg-05.svg">
+      <publishTime>06/18/2024 10:40:46</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/paraImg-06.svg">
+      <publishTime>06/18/2024 10:41:16</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/paraImg-07.svg">
+      <publishTime>06/18/2024 10:41:38</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/react.svg">
+      <publishTime>03/05/2024 11:09:43</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/sign-boards.png">
+      <publishTime>04/17/2024 05:13:27</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/sign-four.png">
+      <publishTime>04/17/2024 05:30:46</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/sign-fourpng.png">
+      <publishTime>04/17/2024 05:22:40</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/sign-single.png">
+      <publishTime>04/19/2024 06:49:34</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/sign-single.svg">
+      <publishTime>04/11/2024 09:50:34</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/twilio-icon.svg">
+      <publishTime>03/05/2024 11:15:34</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/twilio.svg">
+      <publishTime>03/05/2024 11:15:35</publishTime>
+    </File>
+    <File Include="wwwroot/browser/assets/typescript-icon.svg">
+      <publishTime>04/03/2024 07:35:19</publishTime>
+    </File>
+    <File Include="wwwroot/browser/favicon.ico">
+      <publishTime>12/15/2023 13:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/browser/index.html">
+      <publishTime>06/25/2024 15:16:12</publishTime>
+    </File>
+    <File Include="wwwroot/browser/main-XYVL54OA.js">
+      <publishTime>06/25/2024 15:16:12</publishTime>
+    </File>
+    <File Include="wwwroot/browser/polyfills-LZBJRJJE.js">
+      <publishTime>06/25/2024 15:16:12</publishTime>
+    </File>
+    <File Include="wwwroot/browser/styles-FKRXVX62.css">
+      <publishTime>06/25/2024 15:16:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

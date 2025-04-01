@@ -1,0 +1,6 @@
+@Murfwood_AngularNetcore2.Server_HostAddress = http://localhost:5022
+
+GET {{Murfwood_AngularNetcore2.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Murfwood_AngularNetcore2.Server.exe
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Murfwood_AngularNetcore2.Server.dll
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Murfwood_AngularNetcore2.Server.deps.json
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Murfwood_AngularNetcore2.Server.runtimeconfig.json
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Murfwood_AngularNetcore2.Server.pdb
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\davo\source\repos\Murfwood_AngularNetcore2\Murfwood_AngularNetcore2.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

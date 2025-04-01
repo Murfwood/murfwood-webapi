@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "qwZdaHteCcM8AJ+/Yqxqom4AMiMp12r0wXgU6lPz/c4=",
+  "Source": "Murfwood_AngularNetcore2.Server",
+  "BasePath": "_content/Murfwood_AngularNetcore2.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\davo\\source\\repos\\Murfwood_AngularNetcore2\\murfwood_angularnetcore2.client\\murfwood_angularnetcore2.client.esproj",
+      "Version": 2,
+      "Source": "murfwood_angularnetcore2.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

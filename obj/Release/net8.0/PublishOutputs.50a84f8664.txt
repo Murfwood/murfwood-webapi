@@ -1,0 +1,12 @@
+C:\xom\deploy\murfwood\Murfwood_AngularNetcore2.Server.exe
+C:\xom\deploy\murfwood\appsettings.Development.json
+C:\xom\deploy\murfwood\appsettings.json
+C:\xom\deploy\murfwood\Murfwood_AngularNetcore2.Server.dll
+C:\xom\deploy\murfwood\Murfwood_AngularNetcore2.Server.deps.json
+C:\xom\deploy\murfwood\Murfwood_AngularNetcore2.Server.runtimeconfig.json
+C:\xom\deploy\murfwood\Murfwood_AngularNetcore2.Server.pdb
+C:\xom\deploy\murfwood\Microsoft.AspNetCore.SpaProxy.dll
+C:\xom\deploy\murfwood\Microsoft.OpenApi.dll
+C:\xom\deploy\murfwood\Swashbuckle.AspNetCore.Swagger.dll
+C:\xom\deploy\murfwood\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\xom\deploy\murfwood\Swashbuckle.AspNetCore.SwaggerUI.dll
